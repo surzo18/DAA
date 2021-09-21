@@ -5,7 +5,7 @@
 * **Trieda:** III.ročník
 
 **Popis:**
-> Tento kurz je zameraný pre osvojenie základov s databázovými aplikáciami s prepojením s webovými aplikáciami pomocou jazyka Php.
+> Tento kurz je zameraný pre osvojenie základov s databázovými aplikáciami a prepojením s webovými aplikáciami pomocou jazyka Php.
 > 
 
 #

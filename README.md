@@ -3,6 +3,7 @@
 * **Názov kurzu:** Databázové aplikácie
 * **Predmet:** DAA
 * **Trieda:** III.ročník
+* **Discord:** https://discord.gg/aBdKe6Pe
 
 **Popis:**
 > Tento kurz je zameraný pre osvojenie základov s databázovými aplikáciami a prepojením s webovými aplikáciami pomocou jazyka Php.

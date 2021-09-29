@@ -90,10 +90,22 @@
 * **ER Diagram/Konceptuálny model databázy**
 * **Popis jednotlivých atribútov tabuliek vrátane integritného obmedzenia** 
 
-![WORD POPIS](./IMAGES_FOR_README/ProjectPopis.png)
-![ER DIAGRAM](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
-![DATOVÝ MODEL](./IMAGES_FOR_README/DATOVY_MODEL.png)
-![INTEGRITNÉ OBMEDZENIA](./IMAGES_FOR_README/IntegritnéObmedzenie.png)
+<br>
+
+**Vzorové riešenie (Aukciový systém)**
+
+<p align="center">
+    <img src="./IMAGES_FOR_README/ProjectPopis.png">
+</p>
+<p align="center">
+    <img src="./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png">
+</p>
+<p align="center">
+    <img src="./IMAGES_FOR_README/DATOVY_MODEL.png">
+</p>
+<p align="center">
+    <img src="./IMAGES_FOR_README/IntegritnéObmedzenie.png">
+</p>
 
 <br>
 

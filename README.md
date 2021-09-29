@@ -9,7 +9,7 @@
 
 ## **Popis:**  
 > <br/> 
-> Cieľom kurzu je osvojenie si základov práce s **SQL databázovými systémami**. Naučíte sa pracovať s databázami od úplnych základov pomocou GUI až po písanie vlastných pokročilejších databázových scriptov. Naučíte sa ako vkladať, mazať, editovať a dotazovať dáta z databázy (tzv. **CRUD operácie**). Taktiež sa pozrieme na to ako správne navrhnúť *relačnú databázu* ktorá môže byť použitá v skutočnej aplikácii. V druhej časti kurzu sa pozrieme na webové technológie **Php** a **HTML/CSS/JS**. Pomocou týchto technológii skúsime aplikovať novo získané skúsenosti z databáz na nejakých appkách v praxi prepojením front-endu a back-endu.
+> Cieľom kurzu je osvojenie si základov práce s SQL databázovými systémami. Naučíte sa pracovať s databázami od úplnych základov pomocou GUI až po písanie vlastných pokročilejších databázových scriptov. Naučíte sa ako vkladať, mazať, editovať a dotazovať dáta z databázy (tzv. CRUD operácie). Taktiež sa pozrieme na to ako správne navrhnúť *relačnú databázu* ktorá môže byť použitá v skutočnej aplikácii. V druhej časti kurzu sa pozrieme na webové technológie Php a HTML/CSS/JS. Pomocou týchto technológii skúsime aplikovať novo získané skúsenosti z databáz na nejakých appkách v praxi prepojením front-endu a back-endu.
 > <br/> <br>
 
 <br/>
@@ -66,27 +66,56 @@
 ## **Systém Hodnotenia**
 
 > <br>  
->  Hodnotenie 1. časti sa skaldá z **dvoch testov z jazyka SQL** a **projektu** v ktorom vytvoríte funkčnú databázu. 
->  Hodnotenie 2. časti sa skladá z projektu v ktorom si vytvoríte frontendovú webovú aplikáciu (stránku) za pomocou technológii HTML/CSS/JS. A Druhého projektu v ktorom si naprogramujete webovú aplikáciu za pomocou technológie Php. Zároveń v 2 časti budú 2 Testy zamerané práve na spomínané webové technológie technoogie.
+>  Hodnotenie 1. časti sa skaldá z dvoch testov z jazyka SQL a projektu v ktorom vytvoríte funkčnú databázu. 
+>  Hodnotenie 2. časti sa skladá z projektu v ktorom si vytvoríte frontendovú webovú aplikáciu (stránku) za pomocou technológii HTML/CSS/JS. A Druhého projektu v ktorom si naprogramujete webovú aplikáciu za pomocou technológie Php. Zároveń v 2 časti budú 2 Testy zamerané práve na spomínané webové technológie technoogie. 
 > <br> <br>    
 
-**TEST**
-> 1. Test bude zameraný na SQL jazyk - Vytváranie databázy/tabuľky, CRUD operácie (select, delete, update, create).
-> Čo sa týka selectov, tak budú sa tu vyskytovať úlohy pre klauzuly WHERE, LIMIT, BETWWEEN, IN, LIKE, ORDER BY, GROUP BY, AGREGAČNÉ FUNKCIE.
+<br>
 
-> 2. Test bide zameraný na pokročilejšie selecty - joinovanie tabuliek, poddotazy, HAVING + klauzule z predchádzajúce testu.
+### **1. časť**
+* **Test č. 1** -> Test zameraný na SQL jazyk. Vašou úlohou bude zvládnuť základné operácie v SQL jazyku a to **vytvoriť databázu, tabuľku, základné CRUD operácie**. Preukázať schopnosť používať kľúčové slovíčka **WHERE, LIMIT, BETWEEN, IN, LIKE, ORDER BY, GROUP BY, AGREGAČNÉ FUNKCIE.**
 
-**PROJEKT**
+* **Test č. 2** -> Test bude zameraný na pokročilejšie selecty. To znamená, že sa v teste môžu objaviť selecty zamerané na **joinovanie tabuliek, poddotazy, klauzula HAVING** a samozrejme aj všetko ostatné z predchádzajúceho testu týkajúce sa selectov.
 
-![Databáza filmov](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
+* **Projekt** -> Cieľom je navrhnúť databázu zameranú na nejakú tématiku. Tématikou je myslené napr. databáza školy, filmová databáza, knižnica, letisko... Téma by mala byť zvolená tak, aby ste o nej niečo vedeli. K téme je potrebné vytvoriť **SQL scripty pre vytvorenie a naplnenie databázy + 14 Selectov do databázy** (popísané nižšie) a **ER diagram** ktorý, popisuje databázu za pomocí schémy ako na obrázku nižšie. Rozsah tabuliek bude 5-10 (nerátame spojovacie tabuľky). K téme je tiež potrebné vytvoriť materiál v dokumente Word. Projektom bude venovaná jedna hodina na kontrolu správnosti ER/Diagramov. Samozrejme je možné o projektoch konzultovať aj počas vyučovania na ostatných hodinách predmetu.
 
-> Cieľom je vytvoriť databázu o veľkosti 6-10 tabuliek (mimo prepojovacích), ktoré budú vychádzať z nejakého modelu z reálneho sveta. 
-> Príkladom môže byť databáza knižnice, vojenská základňa, autoservis, škola, hudobná knižnica, databáza filmov...
-> Súčasťu projektu bude vypracovať **ER diagram**, **SQL script** pre vytvorenie databázi a **vypracovaný dokumentácia v programe WORD** kde popíšete:
+<br>
 
-1. PREČO - prečo potrebujeme takúto databázu? Aký problém/y bude riešiť.
-2. KDO - Kdo bude aplikaciu vyuźívať? Aspoň 2 typy uživateľov sú podmienkou (mimo admina)
-3. VSTUPY - Určiť, čo budeme evidovať (aké atribúty) a kto za to bude zodpovedný.
-4. VÝSTUPY - aspoň 3 netriviálne výstupy (sql dotazy), ktoré bude uživateľ potrebovať.
+**Word dokument bude obsahovať:**
 
-**VIAC o projekte nájdete v zložke PROJEKT.**
+* **PREČO/NAČO** je váš projekt dobrý. Aký problém rieši. 
+* **KDO** a ako bude databázu využívať (podmienka je mať aspoň dva typy uživateľov mimo admina). 
+* **Vstupy**, ako popis toho, čo budeme v databázi evidovať (entity a atribúty).
+* **Výstupy** ktoré budú z databázy užívatelia získavať. Ideálne 2-3 typy výstupu. V podstate sa jedná o to aké *netriviálne* dotazy užívatelia budú z databázy vyberať pre zobrazenie na stránke alebo pre spracvanie (napr. tlač). 
+* **ER Diagram/Konceptuálny model databázy**
+* **Popis jednotlivých atribútov tabuliek**
+
+<br>
+
+**14 SQL dotazov bude vyzerať následovne:**
+
+* 4 selecty so zákaldným výpisom hodnôt z tabuliek a triedenia záznamov. Aspoň dva budú obsahovať aritmetickú funkciu alebo inú funkciu pre prácu s hodnotami. Dva selecty budú obsahovať order by a jeden z nich bude triediť podľa vypočítanej hodnoty získanej nejakou funkciou.
+* 3 selecty zamerané na výpis riadkov pomocou klauzuly WHERE. Jeden dotaz bude obsahovať kombináciu operátorov AND a OR. Jeden bude obsahovať negáciu. Jeden operátor LIKE a regulárny výraz.
+* 3 selecty s agregačnými funkciami a zhlukovaním (GROUP BY). Každý select musí obsahovať nejakú agregačnú funkciu. 2 selecty musia obsahovať GROUP BY a jeden select musí obsahovať HAVING.
+* 2 Selecty ktoré spájajú tabuľky pomocou JOIN. Musia obsahovať GROUP BY A WHERE klauzule alebo HAVING klauzulu.
+* 2 Selecty ktoré budú kombinovať minimálne dva selecty dokopy (poddotazy).
+* Každý select označte vo formáte č. kategórie|poradie v kategórii a popíšte slovne čo má select vyberať. (Ako komentár nad selectom)
+
+<br>
+
+### **Ukážka popisu v programe WORD**
+![ER DIAGRAM](./IMAGES_FOR_README/ProjectPopis.png)
+
+
+### **Ukážka ER diagramu**
+![ER DIAGRAM](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
+
+
+### **Ukážka popisu tabuľky**
+![DATOVÝ MODEL](./IMAGES_FOR_README/DATOVY_MODEL.png)
+
+### **Ukáźka integritného obmedzenia k popisu tabuľky**
+![INTEGRITNÉ OBMEDZENIA](./IMAGES_FOR_README/IntegritnéObmedzenie.png)
+
+
+<br>

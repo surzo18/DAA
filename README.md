@@ -42,3 +42,5 @@
 2. KDO - Kdo bude aplikaciu vyuźívať? Aspoň 2 typy uživateľov sú podmienkou (mimo admina)
 3. VSTUPY - Určiť, čo budeme evidovať (aké atribúty) a kto za to bude zodpovedný.
 4. VÝSTUPY - aspoň 3 netriviálne výstupy (sql dotazy), ktoré bude uživateľ potrebovať.
+
+**VIAC o projekte nájdete v zložke PROJEKT.**

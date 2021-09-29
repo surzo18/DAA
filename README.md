@@ -61,10 +61,14 @@
 | 15.| -  | 31. |-|
 | 16.| -  | 32. |-|
 
+<br/>  
+
 ## **Systém Hodnotenia**
 
-> Hodnotia sa dva celky: Databázy a Webové aplikácie.
-> V Databázach absolvujete dva testy a projekt.
+> <br>  
+>  Hodnotenie 1. časti sa skaldá z **dvoch testov z jazyka SQL** a **projektu** v ktorom vytvoríte funkčnú databázu. 
+>  Hodnotenie 2. časti sa skladá z projektu v ktorom si vytvoríte frontendovú webovú aplikáciu (stránku) za pomocou technológii HTML/CSS/JS. A Druhého projektu v ktorom si naprogramujete webovú aplikáciu za pomocou technológie Php. Zároveń v 2 časti budú 2 Testy zamerané práve na spomínané webové technológie technoogie.
+> <br> <br>    
 
 **TEST**
 > 1. Test bude zameraný na SQL jazyk - Vytváranie databázy/tabuľky, CRUD operácie (select, delete, update, create).

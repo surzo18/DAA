@@ -7,21 +7,42 @@
 
 </br>  
 
-**Popis:** 
+## **Popis:**  
+> <br/> 
 > Cieľom kurzu je osvojenie si základov práce s **SQL databázovými systémami**. Naučíte sa pracovať s databázami od úplnych základov pomocou GUI až po písanie vlastných pokročilejších databázových scriptov. Naučíte sa ako vkladať, mazať, editovať a dotazovať dáta z databázy (tzv. **CRUD operácie**). Taktiež sa pozrieme na to ako správne navrhnúť *relačnú databázu* ktorá môže byť použitá v skutočnej aplikácii. V druhej časti kurzu sa pozrieme na webové technológie **Php** a **HTML/CSS/JS**. Pomocou týchto technológii skúsime aplikovať novo získané skúsenosti z databáz na nejakých appkách v praxi prepojením front-endu a back-endu.
+> <br/> <br>
 
-#
-**Prerequisites**
-* Logické myslenie
-* Základy programovania v ľubovolnom jazyku sú *výhodou*
-* Základy angličtiny
-* **Vedieť používať Google**    
+<br/>
 
-**Nástroje ktoré potrebujeme**
-* [XAMP](https://www.apachefriends.org/download.html) 
-* [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)
-* [HeidiSQL](https://www.heidisql.com/download.php)
-* [SEQUELPRO - MAC](https://www.sequelpro.com/)
+## **Prerequisites**
+* 🧠 Logické myslenie
+* 👨‍💻 Základy programovania v ľubovolnom jazyku sú *výhodou*
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Základy angličtiny
+* 🔎 **Vedieť používať Google**    
+
+<br/>
+
+## **Nástroje ktoré budeme využívať:**
+* Apache + Mysql server
+    * [XAMP](https://www.apachefriends.org) ⭐⭐⭐⭐
+    * [MAMP](https://www.mamp.info/en/windows/) ⭐⭐⭐⭐⭐
+    * [WAMP](https://www.wampserver.com/en/)  ⭐⭐⭐
+* Softwér pre prácu s databázou
+    * *FREE*:
+        * [HeidiSQL](https://www.heidisql.com/download.php) - Pre Windows ⭐⭐⭐
+        * [SEQUELPRO](https://www.sequelpro.com/) - Pre Mac ⭐⭐⭐⭐
+    * *PROFFESSIONAL*:
+        * [Datagrip](https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=1700946452&gclid=CjwKCAjwndCKBhAkEiwAgSDKQckahJuWb0nYZsQExEQQsd9MagFtaqXVQ6q-Dddauq56WquFv9QUVxoCB5MQAvD_BwE) - Platené, ale pre študentov sa dá získať PRO verzia z darma pomocou ISIC kartičky. ⭐⭐⭐⭐⭐
+        * [Microsoft SQL server managment studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) ⭐⭐⭐⭐⭐
+* Vývojové prostredie
+    * [VS Code](https://code.visualstudio.com/) - ALL IN ONE riešenie ⭐⭐⭐⭐⭐
+    * [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=windows) - Primárne pre PHP. Platené ale lepšie ako VS Code. Pomocou ISIC možné získať zdarma for education. ⭐⭐⭐⭐⭐
+    * [WebStorm](https://www.jetbrains.com/webstorm/) - Primárne pre HTML/CSS/JS. Platené ale lepšie ako VS Code. Pomocou ISIC možné získať zdarma for education. ⭐⭐⭐⭐⭐
+
+<br/>  
+
+## **Prehľad učiva**
+
 
 ## **Systém Hodnotenia**
 

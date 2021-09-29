@@ -88,7 +88,7 @@
 * **Vstupy**, ako popis toho, čo budeme v databázi evidovať (entity a atribúty).
 * **Výstupy** ktoré budú z databázy užívatelia získavať. Ideálne 2-3 typy výstupu. V podstate sa jedná o to aké *netriviálne* dotazy užívatelia budú z databázy vyberať pre zobrazenie na stránke alebo pre spracvanie (napr. tlač). 
 * **ER Diagram/Konceptuálny model databázy**
-* **Popis jednotlivých atribútov tabuliek**
+* **Popis jednotlivých atribútov tabuliek vrátane integritného obmedzenia** 
 
 <br>
 

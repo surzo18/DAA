@@ -34,6 +34,9 @@
 > 2. Test bide zameraný na pokročilejšie selecty - joinovanie tabuliek, poddotazy, HAVING + klauzule z predchádzajúce testu.
 
 **PROJEKT**
+
+![Databáza filmov](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
+
 > Cieľom je vytvoriť databázu o veľkosti 6-10 tabuliek (mimo prepojovacích), ktoré budú vychádzať z nejakého modelu z reálneho sveta. 
 > Príkladom môže byť databáza knižnice, vojenská základňa, autoservis, škola, hudobná knižnica, databáza filmov...
 > Súčasťu projektu bude vypracovať **ER diagram**, **SQL script** pre vytvorenie databázi a **vypracovaný dokumentácia v programe WORD** kde popíšete:

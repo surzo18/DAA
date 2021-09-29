@@ -38,7 +38,7 @@
 > Príkladom môže byť databáza knižnice, vojenská základňa, autoservis, škola, hudobná knižnica, databáza filmov...
 > Súčasťu projektu bude vypracovať **ER diagram**, **SQL script** pre vytvorenie databázi a **vypracovaný dokumentácia v programe WORD** kde popíšete:
 
-* 1. PREČO - prečo potrebujeme takúto databázu? Aký problém/y bude riešiť.
-* 2. KDO - Kdo bude aplikaciu vyuźívať? Aspoň 2 typy uživateľov sú podmienkou (mimo admina)
-* 3. VSTUPY - Určiť, čo budeme evidovať (aké atribúty) a kto za to bude zodpovedný.
-* 4. VÝSTUPY - aspoň 3 netriviálne výstupy (sql dotazy), ktoré bude uživateľ potrebovať.
+1. PREČO - prečo potrebujeme takúto databázu? Aký problém/y bude riešiť.
+2. KDO - Kdo bude aplikaciu vyuźívať? Aspoň 2 typy uživateľov sú podmienkou (mimo admina)
+3. VSTUPY - Určiť, čo budeme evidovať (aké atribúty) a kto za to bude zodpovedný.
+4. VÝSTUPY - aspoň 3 netriviálne výstupy (sql dotazy), ktoré bude uživateľ potrebovať.

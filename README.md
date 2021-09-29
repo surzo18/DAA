@@ -8,7 +8,7 @@
 </br>  
 
 **Popis:** 
-> Cieľom kurzu je osvojenie si základov práce s SQL databázovými systémami. Naučíte sa pracovať s databázami od úplnych základov pomocou GUI až po písanie vlastných pokročilejších databázových scriptov. Naučíte sa ako vkladať, mazať, editovať a dotazovať dáta z databázy. Taktiež sa pozrieme na to ako správne navrhnúť relačnú databázu ktorá môže byť použitá v skutočnej aplikácii. V druhej časti kurzu sa pozrieme na webové technológie Php, HTML/CSS/JS a skúsime pomocou týchto technológii aplikovať novo získané skúsenosti s databáz na nejakých appkách v praxi.
+> Cieľom kurzu je osvojenie si základov práce s SQL databázovými systémami. Naučíte sa pracovať s databázami od úplnych základov pomocou GUI až po písanie vlastných pokročilejších databázových scriptov. Naučíte sa ako vkladať, mazať, editovať a dotazovať dáta z databázy. Taktiež sa pozrieme na to ako správne navrhnúť relačnú databázu ktorá môže byť použitá v skutočnej aplikácii. V druhej časti kurzu sa pozrieme na webové technológie Php a HTML/CSS/JS. Pomocou týcvhto technológii skúsime pomocou týchto technológii aplikovať novo získané skúsenosti s databáz na nejakých appkách v praxi.
 
 #
 **Prerequisites**

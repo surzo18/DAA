@@ -21,6 +21,7 @@
 * [XAMP](https://www.apachefriends.org/download.html) 
 * [PhpStorm](https://www.jetbrains.com/phpstorm/download/#section=windows)
 * [HeidiSQL](https://www.heidisql.com/download.php)
+* [SEQUELPRO - MAC](https://www.sequelpro.com/)
 
 ## **Systém Hodnotenia**
 

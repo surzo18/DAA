@@ -77,7 +77,7 @@
 
 * **Test č. 2** -> Test bude zameraný na pokročilejšie selecty. To znamená, že sa v teste môžu objaviť selecty zamerané na **joinovanie tabuliek, poddotazy, klauzula HAVING** a samozrejme aj všetko ostatné z predchádzajúceho testu týkajúce sa selectov.
 
-* **Projekt** -> Cieľom je navrhnúť databázu zameranú na nejakú tématiku. Tématikou je myslené napr. databáza školy, filmová databáza, knižnica, letisko... Téma by mala byť zvolená tak, aby ste o nej niečo vedeli. K téme je potrebné vytvoriť **SQL scripty pre vytvorenie a naplnenie databázy + 14 Selectov do databázy** (popísané nižšie) a **ER diagram** ktorý, popisuje databázu za pomocí schémy ako na obrázku nižšie. Rozsah tabuliek bude 5-10 (nerátame spojovacie tabuľky). K téme je tiež potrebné vytvoriť materiál v dokumente Word. Projektom bude venovaná jedna hodina na kontrolu správnosti ER/Diagramov. Samozrejme je možné o projektoch konzultovať aj počas vyučovania na ostatných hodinách predmetu.
+* **Projekt** -> Cieľom je navrhnúť databázu zameranú na nejakú tématiku. Tématikou je myslené napr. databáza školy, filmová databáza, knižnica, letisko... Téma by mala byť zvolená tak, aby ste o nej niečo vedeli. K téme je potrebné vytvoriť **SQL scripty pre vytvorenie a naplnenie databázy + 14 Selectov do databázy** (popísané nižšie) a **ER diagram** ktorý, popisuje databázu za pomocí schémy ako na obrázku nižšie. Rozsah tabuliek bude 5-10 (nerátame spojovacie tabuľky). K téme je tiež potrebné vytvoriť materiál v dokumente Word. Projektom bude venovaná jedna hodina na kontrolu správnosti ER/Diagramov. Samozrejme je možné o projektoch konzultovať aj počas vyučovania na ostatných hodinách predmetu. Projekt treba odovzdať skrz platformu Github.com s nahratým WORD dokumentom a všetkými scriptami (Script pre vytvorenie a naplnenie databázy a script so selectami).
 
 <br>
 
@@ -89,6 +89,11 @@
 * **Výstupy** ktoré budú z databázy užívatelia získavať. Ideálne 2-3 typy výstupu. V podstate sa jedná o to aké *netriviálne* dotazy užívatelia budú z databázy vyberať pre zobrazenie na stránke alebo pre spracvanie (napr. tlač). 
 * **ER Diagram/Konceptuálny model databázy**
 * **Popis jednotlivých atribútov tabuliek vrátane integritného obmedzenia** 
+
+![WORD POPIS](./IMAGES_FOR_README/ProjectPopis.png)
+![ER DIAGRAM](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
+![DATOVÝ MODEL](./IMAGES_FOR_README/DATOVY_MODEL.png)
+![INTEGRITNÉ OBMEDZENIA](./IMAGES_FOR_README/IntegritnéObmedzenie.png)
 
 <br>
 
@@ -103,19 +108,6 @@
 
 <br>
 
-### **Ukážka popisu v programe WORD**
-![ER DIAGRAM](./IMAGES_FOR_README/ProjectPopis.png)
+#
 
-
-### **Ukážka ER diagramu**
-![ER DIAGRAM](./IMAGES_FOR_README/EXAMPLE_MOVIE_DATABASE.png)
-
-
-### **Ukážka popisu tabuľky**
-![DATOVÝ MODEL](./IMAGES_FOR_README/DATOVY_MODEL.png)
-
-### **Ukáźka integritného obmedzenia k popisu tabuľky**
-![INTEGRITNÉ OBMEDZENIA](./IMAGES_FOR_README/IntegritnéObmedzenie.png)
-
-
-<br>
+### **2. časť**

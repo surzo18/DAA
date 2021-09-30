@@ -3,7 +3,7 @@
 * 🗄️ **Názov kurzu:** Databázové aplikácie
 * 📘 **Predmet:** DAA
 * 🎓 **Trieda:** III.ročník
-* 💬 **Discord:**  [SPŠ DISCORD](https://discord.gg/aBdKe6Pe)
+* 💬 **Discord:**  [SPŠ DISCORD](https://discord.gg/yyzBbxxcyv)
 
 </br>  
 

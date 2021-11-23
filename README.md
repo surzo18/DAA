@@ -1,3 +1,6 @@
+ODOVZDAVANIE PROJEKTOV OKREM DOTAZOV (7.12 a 8.12) Dotazy po prazdninach
+
+
 # Materiály - 🗄️ Databázové aplikácie 
 
 * 🗄️ **Názov kurzu:** Databázové aplikácie
